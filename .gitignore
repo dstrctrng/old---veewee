@@ -12,3 +12,4 @@ pkg/*
 virtualfloppy.vfd
 .bundle
 vendor/bundle
+/*.gem
