@@ -11,3 +11,5 @@ pkg/*
 *.box
 .vagrant
 virtualfloppy.vfd
+/.bundle
+/vendor/bundle
