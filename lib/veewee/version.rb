@@ -1,3 +1,3 @@
 module Veewee
-  VERSION = "0.2.3"
+  VERSION = "0.203.1"
 end
