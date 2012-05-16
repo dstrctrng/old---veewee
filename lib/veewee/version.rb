@@ -1,3 +1,3 @@
 module Veewee
-  VERSION = "0.203.1"
+  VERSION = File.read(File.dirname(__FILE__) + '/../../VERSION')
 end
