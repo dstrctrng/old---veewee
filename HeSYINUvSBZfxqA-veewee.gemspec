@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "bundler", ">= 1.0.0"
 
-  s.files        = %w(bin/veewee README.md Rakefile veewee.gemspec) + `git ls-files lib templates trials validation`.split("\n")
+  s.files        = %w(bin/veewee README.md Rakefile veewee.gemspec VERSION) + `git ls-files lib templates trials validation`.split("\n")
   s.executables  = %w(veewee)
   s.require_path = 'lib'
 end
